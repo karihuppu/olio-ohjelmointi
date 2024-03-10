@@ -1,9 +1,13 @@
 #include <iostream>
-
 using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    string fname, lname ;
+    cout<<"Kerro etunimesi"<<endl;
+    cin>>fname;
+    cout<<"Kerro sukunimesi"<<endl;
+    cin>>lname;
+    cout<<"Terve "<<fname<<" "<<lname<<endl;
     return 0;
 }
