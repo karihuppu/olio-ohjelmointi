@@ -5,7 +5,8 @@
 
 //(2)kirjoita funktio, kuten edellä, mutta funtkion
 //on tuplattava alkuperäisien muuttujien arvot
-//nyt funktion on otettava vastaan muuttujien osoitteet
+//nyt funktion on otettava vastaan muuttujien osoitteet (*x ja *y)
+//funktion kutsussa argumentteina annetaan osoitteet (&x ja &y)
 
 using namespace std;
 void doubleNumbers1(int a, int b);

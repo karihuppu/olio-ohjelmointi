@@ -9,3 +9,6 @@ functionExample1/*.user
 
 functionExample2/build
 functionExample2/*.user
+
+classExample1/build
+classExample1/*.user
