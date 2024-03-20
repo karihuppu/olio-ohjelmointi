@@ -6,3 +6,6 @@ teht1/*.user
 
 functionExample1/build
 functionExample1/*.user
+
+functionExample2/build
+functionExample2/*.user
