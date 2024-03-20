@@ -1,3 +1,5 @@
+#include "student.h"
+
 #include <iostream>
 
 using namespace std;
@@ -8,6 +10,11 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    //luodaan Student luokasta olio pinoon
+    Student objectStudent1;
+    objectStudent1.setFname("Teppo");
+    objectStudent1.setLname("Testi");
+    objectStudent1.studentInfo();
+
     return 0;
 }
