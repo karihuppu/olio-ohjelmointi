@@ -1,3 +1,4 @@
+
 teht0/build/
 teht0/*.user
 
@@ -12,3 +13,6 @@ functionExample2/*.user
 
 classExample1/build
 classExample1/*.user
+
+inheritanceExample1/build
+inheritanceExample1/*.user
