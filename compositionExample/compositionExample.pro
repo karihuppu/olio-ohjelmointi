@@ -5,7 +5,11 @@ CONFIG -= qt
 
 SOURCES += \
         animal.cpp \
-        main.cpp
+        cat.cpp \
+        main.cpp \
+        person.cpp
 
 HEADERS += \
-    animal.h
+    animal.h \
+    cat.h \
+    person.h
