@@ -4,4 +4,12 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp
+        animal.cpp \
+        cat.cpp \
+        main.cpp \
+        person.cpp
+
+HEADERS += \
+    animal.h \
+    cat.h \
+    person.h
