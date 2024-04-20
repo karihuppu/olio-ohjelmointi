@@ -16,3 +16,6 @@ classExample1/*.user
 
 inheritanceExample1/build
 inheritanceExample1/*.user
+
+compositionExample/build
+compositionExample/*.user
